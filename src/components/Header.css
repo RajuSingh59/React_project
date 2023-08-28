@@ -1,0 +1,21 @@
+.headerContainer{
+    display: flex;
+    border: 1px solid black;
+}
+.LoginSignup{
+    display: flex;
+    margin-left: 80%;
+
+}
+.LoginSign
+{
+    margin-left: 10px;
+    color: rgb(8, 36, 36);
+}
+.LoginContainer{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 7%;
+
+}
+
